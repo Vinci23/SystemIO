@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\systemIo\systemIo\bin\Debug\systemIo.exe.config
+C:\Users\PC\source\repos\systemIo\systemIo\bin\Debug\systemIo.exe
+C:\Users\PC\source\repos\systemIo\systemIo\bin\Debug\systemIo.pdb
+C:\Users\PC\source\repos\systemIo\systemIo\obj\Debug\systemIo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\systemIo\systemIo\obj\Debug\systemIo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\systemIo\systemIo\obj\Debug\systemIo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\systemIo\systemIo\obj\Debug\systemIo.exe
+C:\Users\PC\source\repos\systemIo\systemIo\obj\Debug\systemIo.pdb
